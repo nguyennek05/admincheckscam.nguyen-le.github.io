@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 15 Jul 2023 08:36:49 at https://checkadmin.vn/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://checkadmin.vn/ -O1 "C:\My Web Sites\adminscammer" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:37:49	Error: 	"Not Found" (404) at link https://checkadmin.vn/news (from https://checkadmin.vn/)
+08:37:50	Error: 	"Not Found" (404) at link https://checkadmin.vn/assets/default/fonts/fontawesome/webfonts/fa-duotone-900.eot (from https://checkadmin.vn/assets/default/fonts/fontawesome/css/all.min.css)
+08:37:50	Error: 	"Not Found" (404) at link https://checkadmin.vn/assets/default/fonts/fontawesome/webfonts/fa-duotone-900.eot? (from https://checkadmin.vn/assets/default/fonts/fontawesome/css/all.min.css)
+08:37:50	Error: 	"Not Found" (404) at link https://checkadmin.vn/assets/default/fonts/fontawesome/webfonts/fa-duotone-900.woff2 (from https://checkadmin.vn/assets/default/fonts/fontawesome/css/all.min.css)
+08:37:50	Error: 	"Not Found" (404) at link https://checkadmin.vn/assets/default/fonts/fontawesome/webfonts/fa-duotone-900.woff (from https://checkadmin.vn/assets/default/fonts/fontawesome/css/all.min.css)
+08:37:50	Error: 	"Not Found" (404) at link https://checkadmin.vn/assets/default/fonts/fontawesome/webfonts/fa-duotone-900.ttf (from https://checkadmin.vn/assets/default/fonts/fontawesome/css/all.min.css)
+08:37:50	Error: 	"Not Found" (404) at link https://checkadmin.vn/assets/default/fonts/fontawesome/webfonts/fa-duotone-900.svg (from https://checkadmin.vn/assets/default/fonts/fontawesome/css/all.min.css)
+08:37:57	Error: 	"Not Found" (404) at link https://checkadmin.vn/assets/default/fonts/fontawesome/css/webfonts/fa-solid-900.svg (from https://checkadmin.vn/assets/default/fonts/fontawesome/css/all.min.css)
+08:37:57	Error: 	"Not Found" (404) at link https://checkadmin.vn/service/service/denounce (from https://checkadmin.vn/service/denounce)
+08:37:57	Error: 	"Not Found" (404) at link https://checkadmin.vn/service/news (from https://checkadmin.vn/service/denounce)
+08:37:57	Error: 	"Not Found" (404) at link https://checkadmin.vn/scam/create (from https://checkadmin.vn/service/introduce)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 33 seconds : 602 links scanned, 590 files written (21701721 bytes overall) [7746034 bytes received at 17099 bytes/sec], 20384366 bytes transferred using HTTP compression in 589 files, ratio 29%, 150.7 requests per connection
+(11 errors, 0 warnings, 0 messages)
